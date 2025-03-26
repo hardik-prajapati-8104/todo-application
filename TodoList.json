@@ -1,0 +1,54 @@
+{
+  "todoList": [
+    {
+      "todoItem": "learn react",
+      "isdone": true,
+      "id": 1
+    },
+    {
+      "todoItem": "jay shree krishna",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "todoItem": "jay shree krishna",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "todoItem": "jay shree krishna",
+      "isdone": false,
+      "id": 7
+    },
+    {
+      "todoItem": "successfully added in todo",
+      "isdone": true,
+      "id": 9
+    },
+    {
+      "todoItem": "mitva",
+      "isdone": true,
+      "id": 10
+    },
+    {
+      "todoItem": "hardik prajapati",
+      "isdone": true,
+      "id": 11
+    },
+    {
+      "todoItem": "jay shree krishna",
+      "isdone": true,
+      "id": 14
+    },
+    {
+      "todoItem": "successfully added in todo",
+      "isdone": true,
+      "id": 16
+    },
+    {
+      "todoItem": "hello world",
+      "isdone": true,
+      "id": 17
+    }
+  ]
+}
